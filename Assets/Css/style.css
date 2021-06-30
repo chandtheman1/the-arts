@@ -21,7 +21,7 @@ h1 {
 
 textarea {
     align-self: center;
-    
+
     margin-top: 20px;
     width: 40%;
 }
@@ -32,4 +32,10 @@ button {
     margin-top: 20px;
     padding: 15px;
     width: 10%;
+}
+
+div {
+    align-self: center;
+
+    margin-top: 20px;
 }
