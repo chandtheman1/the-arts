@@ -5,9 +5,31 @@
     --lightBG: #999999;
 }
 
+.flexContainer {
+    display: flex;
+    flex-direction: column;
+
+    margin: 0px 10%;
+}
+
 h1 {
     text-align: center;
     margin-top: 20px;
 
     font-size: 40px;
+}
+
+textarea {
+    align-self: center;
+    
+    margin-top: 20px;
+    width: 40%;
+}
+
+button {
+    align-self: center;
+
+    margin-top: 20px;
+    padding: 15px;
+    width: 10%;
 }
